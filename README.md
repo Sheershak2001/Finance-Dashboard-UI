@@ -8,6 +8,7 @@ Dynamic income & expense calculation
 Chart visualization (Chart.js)
 LocalStorage persistence
 Responsive UI
+
 🛠 Tech Stack
 React
 Tailwind CSS
