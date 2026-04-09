@@ -1,4 +1,4 @@
-<!-- 💰 Finance Dashboard
+Finance Dashboard UI
 A responsive finance dashboard built using React and Tailwind CSS.
 
 🚀 Features
@@ -11,7 +11,7 @@ Responsive UI
 🛠 Tech Stack
 React
 Tailwind CSS
-recharts -->
+recharts
 
 # React + Vite
 
